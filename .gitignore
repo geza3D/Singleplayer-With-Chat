@@ -17,13 +17,9 @@ out
 build
 .gradle
 
+# Forge MDK
+forge*changelog.txt
+
 # other
 eclipse
 run
-
-# Files from Forge MDK
-forge*changelog.txt
-
-# geza3D's thingy
-
-setupDecompWorkspace.bat
